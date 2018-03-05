@@ -1,4 +1,4 @@
-# ShortenUrlApi
+# API to shorten urls
 Created with NodeJs + Postgresql
 
 ### install dependencies
@@ -23,4 +23,3 @@ Created with NodeJs + Postgresql
 ### serve with host reload at localhost:3000
 
 `npm serve`
-
